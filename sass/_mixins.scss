@@ -1,0 +1,9 @@
+// Mixin.
+@mixin bgc($bgc) {
+    background-color: $bgc;
+}
+
+@mixin cube($value) {
+    width: $value;
+    height: $value;
+}
